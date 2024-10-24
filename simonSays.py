@@ -1,4 +1,6 @@
 """
+week 4: Simon Says
+
 Simon asks you to perform operations on a list of numbers that only he tells you.
 
 You should ignore all other instructions given.

@@ -1,4 +1,6 @@
 """
+week 2: Pig Latin Translation
+
 Write a function that converts a sentence into pig latin.
 Rules for converting to pig latin:
     - For words that begin with a vowel (a, e, i, o, u), add "way".

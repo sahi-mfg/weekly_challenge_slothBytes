@@ -1,4 +1,6 @@
 """
+week 3: Ping Pong!
+
 A game of table tennis almost always sound like Ping! followed by Pong!
 
 You know that Player 2 won if you hear Pong! as the last sound (since Player 2 didn't return the ball back)

@@ -1,4 +1,7 @@
-"""Create a function which returns the number of True values there are in an array.
+"""
+week 1: Count True Values in a List
+
+Create a function which returns the number of True values there are in an array.
 
 Examples
 count_true([True, False, False, True, False]) ➞ 2
