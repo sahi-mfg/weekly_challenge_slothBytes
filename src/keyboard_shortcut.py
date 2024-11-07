@@ -18,7 +18,7 @@ Given a sentence containing few instances of "Ctrl + C" and "Ctrl + V", return t
 """
 
 
-def keyboard_shortcut(sentence):
+def keyboard_shortcut(sentence: str) -> str:
     words = sentence.split()
     copied_text = ""
     result = []
